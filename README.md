@@ -1,6 +1,7 @@
 # Análisis Integral de Tenencia Responsable: Costos, Salud y Factores de Satisfacción en la Adopción de Mascotas
 
-Por: Andrés Felipe Rodríguez Valbuena
+Por: Andrés Felipe Rodríguez Valbuena.
+
 Este repositorio contiene el proyecto final de análisis de datos desarrollado en Python. A través de un enfoque de *Data Storytelling*. Se investiga la realidad económica, biológica y conductual de la tenencia doméstica de animales, evaluando qué factores determinan una adopción exitosa y un hogar satisfecho.
 
 ---
